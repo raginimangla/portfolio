@@ -70,8 +70,7 @@ My contributions to the project include the following:
 
 **Contributions**:
 
-
-    My contributions to the project include the following:
+My contributions to the project include the following:
 
 
 
