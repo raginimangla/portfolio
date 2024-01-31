@@ -1,5 +1,9 @@
 title: Ragini Mangla
 #logo: /assets/img.headshot_circle.png
-#description: sample desctiption
+#description: sample description
 #show_downloads: true
 theme: jekyll-theme-cayman
+
+sidebar:
+  - about-me
+  - projects
